@@ -3,7 +3,7 @@ using System.Xml;
 
 namespace Student
 {
-    class Student
+    class XML
     {
         static void CreateXMLFile()
         {
